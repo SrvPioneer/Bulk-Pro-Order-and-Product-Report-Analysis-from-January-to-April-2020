@@ -25,7 +25,7 @@ Overall, the need for this project is to gain insights that can be used to optim
 
 # ABOUT DATASET:
 
-Bulk Pro product and order report dataset contan 8 columns, each are:
+This dataset have jan, feb, mar and apr 2020 order and product details report. Bulk Pro product and order report dataset contan 8 columns, each are:
 
 * order id : This column contain unique order id number for each order.
 * product id : Unique product id for each product.
@@ -49,3 +49,15 @@ The step of approaches are:
 # POWERBI DASHBOARD:
 
 ![Image1](https://github.com/SrvPioneer/Bulk-Pro-Order-and-Product-Report-Analysis-from-January-to-April-2020/assets/93809665/caa0478d-0175-4462-89b5-7627ac7c879b)
+
+# RESULT:
+
+The results of this project are:
+* Some of totla order quantity for jan, feb, mar and apr months are 169M.
+* Available total number of products on Bulk Pro are 1825 from jan to apr 2020.
+* Maximum individual order quantity came from platinum category. 
+* Maximum order has been received from february month with the quantity of 55M.
+* Highest order received from product id ZZ236938UM with quantity number 362523.
+* Maximum product has been launched in january with quantity 22.74k and overall percentage 32.32
+* Most of order coming from tele sales which is around 80M.
+* Maxmim google search has been done randomly.
