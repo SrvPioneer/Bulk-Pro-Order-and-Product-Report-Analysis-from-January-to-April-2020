@@ -23,4 +23,29 @@ The need for this project is to gain insights into the marketing performance of 
 
 Overall, the need for this project is to gain insights that can be used to optimize the business processes, improve profitability, and enhance the overall customer experience.
 
+# ABOUT DATASET:
+
+Bulk Pro product and order report dataset contan 8 columns, each are:
+
+* order id : This column contain unique order id number for each order.
+* product id : Unique product id for each product.
+* order units : Total order number from a particulat order id.
+* order date : Date of order.
+* Product category : Category of product available in this dataset.
+* Product launch : Launch data of product in Market.
+* Product source : Source of online from where order have been generated.
+* google search keyword : Product search on google with the name of different keyword.
+
+# APPROACH: 
+
+The step of approaches are:
+* Data collection: Collected data from Almabetter student dashboard.
+* Prepare and clean the data: Cleaned and transformed the data as necessary, such as removing duplicates, handling missing values, and converting data types on excel.
+* Connect to the data source: Imported the dataset into Power BI by connecting to the data source, using excel file.
+* Create visualizations: Used Power BI's visualization tools to create charts, graphs, and other visualizations that can help to understand the data.
+* Apply filters and slicers: Used filters and slicers to interactively explore the data and to drill down into specific aspects of the data.
+* Add calculated fields and measures: Added calculated fields and measures to the data model to perform calculations and aggregations on the data.
+
+# POWERBI DASHBOARD:
+
 ![Image1](https://github.com/SrvPioneer/Bulk-Pro-Order-and-Product-Report-Analysis-from-January-to-April-2020/assets/93809665/caa0478d-0175-4462-89b5-7627ac7c879b)
