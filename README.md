@@ -61,3 +61,8 @@ The results of this project are:
 * Maximum product has been launched in january with quantity 22.74k and overall percentage 32.32
 * Most of order coming from tele sales which is around 80M.
 * Maxmim google search has been done randomly.
+
+
+# Conclusion:
+The conclusion of this project is the actionable insights that can be used to optimize the business processes, improve profitability, and enhance the overall customer experience. These insights can be used to inform decision-making and drive business growth and success.
+
